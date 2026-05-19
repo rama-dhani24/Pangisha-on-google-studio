@@ -1,0 +1,6 @@
+{
+  "name": "Pangisha",
+  "description": "The premier digital rental marketplace in Tanzania. Easily search, list, and book living spaces, rooms, and apartments, complete with a Swahili-English AI Rental Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
